@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antony David</h1>
 <h3 align="center">a self taught programmer on an intention to become a software developer, i love building apps that solves real world problems.</h3>
 
-<p align="left"> <a href="https://twitter.com/antonydavidx" target="blank"><img src="https://img.shields.io/twitter/follow/antonydavidx?logo=twitter&style=for-the-badge" alt="antonydavidx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/tonydavid_dev" target="blank"><img src="https://img.shields.io/twitter/follow/antonydavidx?logo=twitter&style=for-the-badge" alt="antonydavidx" /></a> </p>
 
 - 🔭 I’m currently working on [Chess Clock](https://github.com/tonydavidx/chess-clock-app)
 
