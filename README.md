@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Antony David</h1>
-<h3 align="center">a self taught programmer on an intention to become a software developer, i love building apps that solves real world problems.</h3>
+<h3 align="center">An self taught programmer on an intention to become a software developer, i love building apps that solves real world problems.</h3>
 
 <p align="left"> <a href="https://twitter.com/tonydavidz" target="blank"><img src="https://img.shields.io/twitter/follow/antonydavidx?logo=twitter&style=for-the-badge" alt="antonydavidx" /></a> </p>
 
