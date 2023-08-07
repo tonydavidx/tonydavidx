@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python**
 
-- 🤝 I’m looking for help with **Flutter, Python**
-
-- 💬 Ask me about **Graphic Design**
+- 🤝 I’m looking for help with **Flutter, Python, Next.js**
 
 - 📫 How to reach me **tonydavidx[at]gmail.com**
 
